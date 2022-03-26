@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jaikishan12
 - 👀 I’m interested in Coding and Problem Solving
-- 👀 I'm the Founder of LearnLite-The Planning and Learning App(learnlite.in)
 - 🌱 I’m currently learning 
 
 <!---
